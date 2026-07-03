@@ -1,2 +1,2 @@
 # Repositorio-de-prueba
-Mi primera clonación de un repositorio
+Mi primera clonación de un repositorio de gitgithub
